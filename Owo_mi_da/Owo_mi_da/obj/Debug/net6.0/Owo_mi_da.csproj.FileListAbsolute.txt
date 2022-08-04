@@ -1,0 +1,15 @@
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\bin\Debug\net6.0\Owo_mi_da.exe
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\bin\Debug\net6.0\Owo_mi_da.deps.json
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\bin\Debug\net6.0\Owo_mi_da.runtimeconfig.json
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\bin\Debug\net6.0\Owo_mi_da.dll
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\bin\Debug\net6.0\Owo_mi_da.pdb
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\obj\Debug\net6.0\Owo_mi_da.csproj.AssemblyReference.cache
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\obj\Debug\net6.0\Owo_mi_da.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\obj\Debug\net6.0\Owo_mi_da.AssemblyInfoInputs.cache
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\obj\Debug\net6.0\Owo_mi_da.AssemblyInfo.cs
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\obj\Debug\net6.0\Owo_mi_da.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\obj\Debug\net6.0\Owo_mi_da.dll
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\obj\Debug\net6.0\refint\Owo_mi_da.dll
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\obj\Debug\net6.0\Owo_mi_da.pdb
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\obj\Debug\net6.0\Owo_mi_da.genruntimeconfig.cache
+C:\Users\Support\source\repos\Owo_mi_da\Owo_mi_da\obj\Debug\net6.0\ref\Owo_mi_da.dll
